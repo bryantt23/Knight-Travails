@@ -66,3 +66,4 @@ end
 
 puts knight_moves([3,3],[4,3])
 
+puts knight_moves([0,0],[7,7])
